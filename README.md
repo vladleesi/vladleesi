@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```kotlin
+val vladleesi by developer {
+    about {
+        name = "Vladislav Kochetov"
+    }
+    tech("Kotlin", "Android", "KMM")
+    links {
+        linkedIn = "https://www.linkedin.com/in/vladislav-kochetov"
+    }
+}
+```
