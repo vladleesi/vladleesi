@@ -24,4 +24,4 @@ val vladleesi by developer {
 }
 ```
 
-⚡ Random fact: Programming is a bit like talking to ducks. Rubber ducks, to be precise. The concept of **'rubber duck debugging'** involves explaining your code, line by line, to a rubber duck. By articulating the problem out loud, you often discover the solution yourself. So, if you ever catch a programmer conversing with a rubber duck, don't worry, they're just engaging in some productive debugging banter with their trusted companion.
+⚡ Random fact: Programming can be a lonely business, but programmers have a secret weapon: rubber ducks. In a practice called "rubber duck debugging," programmers explain their code line by line to a rubber duck, allowing them to spot errors and find solutions. These specially trained rubber ducks might not talk back, but their mere presence helps programmers clarify their thoughts and uncover bugs. So, don't be surprised if you see a programmer deep in conversation with a rubber duck—it's just a quirky, yet effective, way to debug and bring a little more humanity to the coding process.
