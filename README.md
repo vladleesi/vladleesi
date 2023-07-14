@@ -24,4 +24,4 @@ val vladleesi by developer {
 }
 ```
 
-⚡ Random fact: Programming can be a lonely business, but programmers have a secret weapon - rubber ducks. [Rubber duck debugging](https://rubberduckdebugging.com/) is when programmers passionately explain their code to a rubber duck, bugs tremble, syntax errors flee, and the code becomes a whimsical performance where even off-by-one errors can't resist the allure of the quacking wisdom. Embracing the power of imagination and creating a bond between programmer and plastic fowl, this delightful technique brings laughter and clarity to the debugging process. Quack on, my friend!
+⚡ Random fact: Programming can be a lonely business, but programmers have a secret weapon - rubber ducks. [Rubber duck debugging](https://rubberduckdebugging.com/) is when programmers passionately explain their code to a rubber duck, bugs tremble, syntax errors flee, and the code becomes a whimsical performance where even off-by-one errors can't resist the allure of the quacking wisdom. Quack on, my friend!
