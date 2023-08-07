@@ -26,7 +26,6 @@ val vladleesi by developer {
 
 ### Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/vladkochetov/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square)](https://twitter.com/vladleesi)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black?style=flat-square)](https://dev.to/vladleesi)
 
