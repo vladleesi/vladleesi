@@ -20,7 +20,7 @@ val vladleesi by developer {
     about {
         name = "Vladislav Kochetov"
     }
-    tech("Kotlin", "Android", "KMM")
+    tech("Kotlin", "Android", "KMP")
 }
 ```
 
