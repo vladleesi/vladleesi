@@ -28,5 +28,3 @@ val vladleesi by developer {
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square)](https://twitter.com/vladleesi)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black?style=flat-square)](https://dev.to/vladleesi)
-
-⚡ Random fact: Programming can be a lonely business, but programmers have a secret weapon - rubber ducks. [Rubber duck debugging](https://rubberduckdebugging.com/) is when programmers passionately explain their code to a rubber duck, bugs tremble, syntax errors flee. Quack on, my friend!
