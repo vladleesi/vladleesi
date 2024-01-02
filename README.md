@@ -26,8 +26,9 @@ val vladleesi by developer {
 
 ### Where to Find Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square)](https://twitter.com/vladleesi)
-[![Dev.to](https://img.shields.io/badge/Dev.to-black?style=flat-square)](https://dev.to/vladleesi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vladleesi)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vladleesi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladkochetov)
 <!--
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square)](https://medium.com/@vladleesi)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square)](https://www.reddit.com/user/vladleesi)
