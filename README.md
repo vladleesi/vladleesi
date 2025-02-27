@@ -29,7 +29,8 @@ val vladleesi by developer {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladkochetov)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vladleesi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vladleesi)
+[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://vladleesi.dev/feed.xml)
 <!--
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/vladleesi)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square)](https://medium.com/@vladleesi)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square)](https://www.reddit.com/user/vladleesi)
 -->
