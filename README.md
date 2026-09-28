@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```console
+```bash
 $ adb shell getprop developer
 
 [developer.name]:      [Vladislav Kochetov]
@@ -27,14 +27,14 @@ $ ./gradlew skills
 
 > Task :developer:skills
 
-Kotlin                [████████████████████] 100%
-Android               [████████████████████] 100%
-Jetpack Compose       [████████████████████] 100%
-Kotlin Multiplatform  [████████████████████] 100%
-Coroutines / Flow     [████████████████████] 100%
-Ktor / Retrofit       [████████████████████] 100%
-Testing               [████████████████████] 100%
-Gradle / CI           [████████████████████] 100%
+Kotlin                 [████████████████████] 100%
+Android                [████████████████████] 100%
+Jetpack Compose        [████████████████████] 100%
+Kotlin Multiplatform   [████████████████████] 100%
+Coroutines / Flow      [████████████████████] 100%
+Ktor / Retrofit        [████████████████████] 100%
+Testing                [████████████████████] 100%
+Gradle / CI            [████████████████████] 100%
 
 BUILD SUCCESSFUL
 ```
